@@ -1,0 +1,14 @@
+Phishing Detection Report - Fri Jan 31 2025
+----------------------------------------
+Checking for suspicious URLs...
+[ALERT] IP-based URL found: http://192.168.1.1/verify-account
+[ALERT] Suspicious keyword in URL: http://fake-login-site.com/login
+
+Checking for phishing keywords...
+login
+verify
+update
+
+Checking for HTML obfuscation...
+----------------------------------------
+Phishing detection completed. Results saved to phishing_detection_report.txt.
